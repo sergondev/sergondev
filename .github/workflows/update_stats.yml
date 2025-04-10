@@ -10,6 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update Stats
-        run: curl -X GET "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&count_private=true&include_all_commits=true"
-
-          git push
+        run: curl -X GET "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&count_private=true&include_all_commits=true&token=${{ secrets.GH_STATS_PAT }}"
