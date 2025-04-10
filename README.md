@@ -5,7 +5,7 @@
 # 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergondev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&custom_title=My%20GitHub%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dark&count_private=true&custom_title=Most%20Used%20Languages)
 
 
 ---
