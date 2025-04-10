@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergondev
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning PYTHON, C#/.NET, BASH/SHELL, TS
+- 🌱 I’m currently learning PYTHON, C#/.NET, BASH/SHELL
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
