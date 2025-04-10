@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning PYTHON, C#/.NET, BASH/SHELL
 
 # 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true&token=GH_STATS_PAT)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true&custom_title=Most%20Used%20Languages)
 
 
 ---
