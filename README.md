@@ -11,7 +11,7 @@ Currently diving deep into Python, C#/.NET, and Bash/Shell scripting.
 C, C++, Python, C#
 
 ### Scripting & Automation  
-Python, Bash, Batch, Deployment automation
+Python, Bash, Batch
 
 ### Web Development  
 HTML, CSS, JavaScript, WordPress
