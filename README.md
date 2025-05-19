@@ -18,11 +18,11 @@ HTML, CSS, JavaScript, WordPress
 
 I also have skills in the following areas:
 
-#### Cybersecurity  
-#### Networking  
-#### Operating Systems and Virtualization Concepts  
-#### IT Support & Systems Administration  
-#### Tools & Platforms
+#### - Networking  
+#### - Cybersecurity  
+#### - Operating Systems and Virtualization Concepts  
+#### - IT Support & Systems Administration  
+#### - Tools & Platforms
 
 ---
 
@@ -37,15 +37,15 @@ I also have skills in the following areas:
 ## 🔭 What I’m Working On
 
 - Private projects in cybersecurity and automation  
-- Personal portfolio and project showcase website  
+- Personal portfolio and project showcase website (private and under construction)
 - Private enterprise projects
 
 
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true&token=GH_STATS_PAT) --->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
-![GitHub metrics](./metrics.svg)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub metrics](./metrics.svg) ---!>
 
 
 
