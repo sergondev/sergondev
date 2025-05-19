@@ -5,6 +5,7 @@
 # 📊 GitHub Stats:
 <!--- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&langs_count=8&theme=dark&count_private=true&token=GH_STATS_PAT) --->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergondev&layout=compact&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub metrics](./metrics.svg)
 
 
 
