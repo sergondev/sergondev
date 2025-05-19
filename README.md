@@ -16,13 +16,13 @@ Python, Bash, Batch, Deployment automation
 ### Web Development  
 HTML, CSS, JavaScript, WordPress
 
-I also have experience and skills in the following areas:
+I also have skills in the following areas:
 
-### Cybersecurity  
-### Networking  
-### Operating Systems and Virtualization Concepts  
-### IT Support & Systems Administration  
-### Tools & Platforms
+#### Cybersecurity  
+#### Networking  
+#### Operating Systems and Virtualization Concepts  
+#### IT Support & Systems Administration  
+#### Tools & Platforms
 
 ---
 
