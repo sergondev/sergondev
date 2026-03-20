@@ -1,0 +1,31 @@
+name: GitHub Metrics
+
+on:
+  schedule: [{cron: "0 6 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Stats Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GH_STATS_PAT }}
+          user: sergondev
+
+          config_timezone: Europe/Bucharest
+          output_action: commit
+
+          base: header, repositories
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+
+          config_display: large
+          repositories_affiliations: owner, collaborator
